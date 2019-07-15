@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/VeTeSS_TopcasedPluginFeature_1.0.2.201503231811.jar" id="VeTeSS_TopcasedPluginFeature" version="1.0.2.201503231811" os="win32">
+      <category name="verification"/>
+   </feature>
+   <category-def name="verification" label="Verification"/>
+</site>
